@@ -24,7 +24,9 @@ const MarketingPage = () => {
                 Collaborate seamlessly, manage projects efficiently, and achieve new productivity heights with TaskTrek. Whether in a high-rise office or working from home, empower your team to accomplish it all with our unique solution.
             </div>
             <Button className="mt-6" size="lg" asChild>
-                <Link href="/sign-up"/>
+                <Link href="/sign-up">
+                    Get Tasktrek for free
+                </Link>
             </Button>
         </div>
     )
